@@ -30,6 +30,10 @@ body {
     width: fit-content;
 }
 
+.mt-7 {
+    margin-top: 7.7rem !important;
+}
+
 
 .btn-black,
 .btn-yellow:hover {
@@ -116,9 +120,13 @@ body {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(16.5rem, 1fr));
     grid-template-rows: 24rem;
-    grid-gap: 7rem;
+    grid-gap: 2rem;
     justify-self: center;
     margin-top: 14.75rem;
+}
+.box {
+    box-shadow: 1px 4px 20px 8px rgba(0,0,0, 0.1);
+    padding: 1rem;
 }
 
 /* Last Section */
