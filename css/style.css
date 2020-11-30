@@ -152,6 +152,10 @@ footer .form-control,
 footer form {
     width: clamp(16rem, 100%, 25rem) !important;
 }
+footer img {
+    max-height: 40rem;
+    object-fit: contain;
+}
 
 /* ------ Breakpoints ------ */
 /* <----------------------------------------------------------> */
