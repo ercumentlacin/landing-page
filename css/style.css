@@ -165,10 +165,22 @@ footer form {
 /* ------ Breakpoints ------ */
 /* <----------------------------------------------------------> */
 /* // Extra small devices (portrait phones, less than 576px) */
-@media (max-width: 575.98px) {  
+@media (max-width: 575.98px) {    
+    #section-bottom, #last-section {
+        padding-left: .5rem !important;
+        padding-right: .5rem !important;
+    }
+    #last-section, #section-grid {
+        margin-top: 2rem !important;
+    }
+    #sit-man {
+        margin-bottom: 1rem;
+    }
+    .jumbotron blockquote {
+        margin-top: 3rem;
+        margin-bottom: 3rem;
+    }
     
-    
-
 }
 
 /* // Small devices (landscape phones, less than 768px) */
