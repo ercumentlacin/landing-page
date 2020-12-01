@@ -2,9 +2,9 @@
   Landing Page
 </h1>
 
-<a href="https://landing-page-by-ercumentlacin.netlify.app/" align="center">
-  <img src="https://i.ibb.co/4FKnH8n/Screenshot.png">
-</a>
+<p align="center">
+  <a href="https://landing-page-by-ercumentlacin.netlify.app/"><img src="https://i.ibb.co/4FKnH8n/Screenshot.png"></a>
+</p>
 
 https://landing-page-by-ercumentlacin.netlify.app/
 
