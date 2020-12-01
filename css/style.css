@@ -6,6 +6,9 @@
 
 /* Font Awesome CDN */
 @import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css');
+
+/* AOS CSS */
+@import "aos.css";
 /* --------------------------------------------------- */
 
 /* General CSS */
@@ -113,6 +116,7 @@ body {
 
 #section-bottom {
     margin-top: 10rem;
+    padding: 3rem;
 }
 
 .row#mt-13 {
@@ -184,7 +188,6 @@ footer form {
     }
     .row#mt-13 {
         margin-bottom: -5rem;
-        margin-top: ;
     }
     .row#mt-13 > .col-sm-6 {
         margin-left: auto !important;
