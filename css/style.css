@@ -91,6 +91,7 @@ body {
 .section {
     margin-top: 7rem;
     margin-bottom: 5rem;
+    padding-bottom: 3rem !important;
 }
 .muted.left-border{
     margin-left: 3rem;
@@ -187,7 +188,7 @@ footer form {
         display: table;
     }
     .row#mt-13 {
-        margin-bottom: -5rem;
+        margin-bottom: 0rem;
     }
     .row#mt-13 > .col-sm-6 {
         margin-left: auto !important;
